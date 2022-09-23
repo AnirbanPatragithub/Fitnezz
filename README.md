@@ -1,4 +1,7 @@
 # Fitnezz
+## About :
+[Fitnezz](https://fitnezzz.netlify.app/) is a platform designed to promote healthy lifestyle.It provides access to several tutorials and guides to perform exercises.The guides are curated to target specific muscle groups. **Make Fitnezz Your workout companion** 
+
 ![Fitnezz](https://socialify.git.ci/Subhradeep10/Fitnezz/image?description=1&descriptionEditable=A%20place%20for%20Fitness%20Enthusiast.%20%0A%F0%9F%8F%8B%EF%B8%8F%0A%F0%9F%8F%8B%EF%B8%8F&font=Bitter&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
 
 <p align="center">
